@@ -1,0 +1,19 @@
+{
+      "format_version" : 1,
+      "header" : {
+         "description" : "Việt hóa bởi Văn Cường,
+Phiên bản gói: 1.5.0, Sử dụng cho mọi phiên bản MCBE (dưới 1.13.0.2)",
+         "name" : "Vietnamese Language",
+         "uuid" : "23d3c219-4f6e-3aee-a570-3c81941863f6",
+         "version" : [ 0, 0, 2 ]
+      },
+      "modules" : [
+         {
+            "description" : "Việt hóa bởi Văn Cường,
+Phiên bản gói : 1.5.0, Sử dụng cho mọi phiên bản MCBE (dưới 1.13.0.2)",
+            "type" : "resources",
+            "uuid" : "4401ec09-4e02-458c-9278-153a264f0057",
+            "version" : [ 0, 0, 2 ]
+         }
+      ]
+   }
